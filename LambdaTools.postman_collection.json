@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "cc1e72d5-caba-4888-a057-de7b4d68b01c",
+		"name": "LambdaTools",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11709782"
+	},
+	"item": [
+		{
+			"name": "Get a Job",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Create a Job",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "BASE_URL",
+			"value": "https://7yieo7u27tyawdfzzn7t22sv540hvnwh.lambda-url.us-east-2.on.aws"
+		}
+	]
+}

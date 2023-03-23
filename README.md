@@ -1,2 +1,3 @@
 # tools-on-lambda
- Running tools on lambda with a Go based lambda function written by Aseem Shrey.
+
+This repoistory is a clean version of original code (https://github.com/LuD1161/go-cli-to-webapi) and was created with due permissions from the original author (Aseem Shrey).
